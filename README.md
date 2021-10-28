@@ -1,4 +1,4 @@
-Hi, I’m my name is Andrew Bruce, I am a mechanical engineer working within the medical device industry. The quick development cycle and open source philosophy of the SW industry have led me to want to learn how to code.
+Hi, I’m my name is Andrew Bruce, I am a mechanical engineer working within the medical device industry. I want to learn to code because I love the quick development cycle and open-source philosophy within the world of software. 
 
 Prior to honing in on a specialization, I’m interested in attaining a general understanding of web and mobile applicaion development and ML. In the end of the day, I want to create tools and experiences that solve problems and bring joy to other people.
 
