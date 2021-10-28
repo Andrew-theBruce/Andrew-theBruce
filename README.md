@@ -1,6 +1,6 @@
 Hi, I’m my name is Andrew Bruce, I am a mechanical engineer working within the medical device industry. The quick development cycle and open source philosophy of the SW industry have led me to want to learn how to code.
 
-I’m interested attaining a general understanding of web and mobile applicaion development. Once the differences and paths are more defined, I'd like to hone in on one to become a competent developer.
+Prior to honing in on a specialization, I’m interested in attaining a general understanding of web and mobile applicaion development and ML. In the end of the day, I want to create tools and experiences that solve problems and bring joy to other people.
 
 Currently learning HTML, CSS and 🐍 
 
